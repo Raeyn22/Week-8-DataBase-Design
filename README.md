@@ -46,7 +46,7 @@ The database features proper normalization, constraints, and relationships to en
    ```
 
 ## 🔗 ERD (Entity Relationship Diagram)
-![Library Management System ERD](https://i.imgur.com/JQhG3Zm.png)  
+![Library Management System ERD]
 *Visual representation of tables and relationships*
 
 [View interactive ERD on dbdiagram.io](https://dbdiagram.io/d/64f1a5d002bd1c4a5e8a7a2a)
